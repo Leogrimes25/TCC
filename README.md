@@ -14,3 +14,7 @@ Os algoritmos utilizados foram :
 2️⃣ Support Vector Machine (SVM): Algoritmo que busca encontrar um hiperplano ótimo para separar as classes no espaço de dados. Pode utilizar diferentes kernels para lidar com padrões complexos.
 
 3️⃣ Random Forest: Conjunto de múltiplas árvores de decisão, onde cada árvore vota na classe mais provável e a predição final é feita por meio da agregação desses votos. É robusto e resistente ao overfitting.
+
+Link para base de dados utilizada :
+
+https://www.kaggle.com/datasets/parvezalmuqtadir2348/postpartum-depression
